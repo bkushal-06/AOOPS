@@ -1,0 +1,4 @@
+interface MusicSource {
+    void play();
+}
+ 
