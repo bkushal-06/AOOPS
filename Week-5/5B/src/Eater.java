@@ -1,0 +1,3 @@
+interface Eater {
+    void eat();
+}
